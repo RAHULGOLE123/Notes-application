@@ -55,6 +55,7 @@ const [task, setTask] = useState([])
           />
           <button className="bg-white text-black px-5 py-2 rounded-2xl w-full font-bold ">
             Add note
+            
           </button>
     
       </form>
